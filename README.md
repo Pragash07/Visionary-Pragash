@@ -1,2 +1,2 @@
 # Visionary-Pragash
-Learning Python AI Course. 
+Learning Python AI Course.
